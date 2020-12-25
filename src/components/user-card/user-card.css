@@ -1,0 +1,127 @@
+.counts {
+    display: flex;
+  }
+  .card-pp {
+    width: 65.07px;
+    height: 65.07px;
+    left: 850.62px;
+    top: 291px;
+    border-radius: 50%;
+    float: left;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+  }
+  .card {
+    position: relative;
+    width: 242px;
+    height: 206px;
+    box-shadow: 0.845026px 2.53508px 10.1403px rgba(0, 0, 0, 0.03);
+    background-color: #FFFFFF;
+    float: right;
+    bottom: 150px;
+    right: 280px;
+  }
+  .card-name {
+    font-size: 15px;
+    margin: 0px;
+    color: #6F737C;
+    font-weight: 500;
+  }
+  .card-mail {
+    font-size: 11px;
+    padding-top: 5px;
+    margin: 0px;
+    color: #6f737c;
+    font-weight: 400;
+    padding-bottom: 5.5px;
+  }
+  .card-right {
+    float: right;
+    position: absolute;
+    top: 27px;
+    left: 88px;
+  }
+  
+  .counts p {
+    font-size: 9.3px;
+    padding: 2.4px 3.4px;
+    margin-right: 4.23px;
+    font-weight: 700;
+    font-weight: bold;
+  }
+  .purple {
+    background-color: #F2F0FE;
+    color: #826cfc;
+  }
+  .blue {
+    background-color:  #C0E8FF;
+    color: #0085FF;
+  }
+  .green {
+    background-color:#D7FFE2;;
+    color:#54b806;
+  }
+  .orange {
+    background-color:#FFF9C7;
+    color: #d5a707;
+  }
+  .count{
+    border-radius: 1.69005px;
+  }
+  
+  .card-info {
+    
+    display: flex;
+    background-color: #f7fcff;
+    left: 50%;
+    padding: 9px 24px;
+    transform: translate(-50%);
+    margin: auto;
+    position: absolute;
+    top: 104px;
+  }
+  .card-info h5{
+    font-size: 12px;
+    color: #9BA5B7;
+    text-align: center;
+  }
+  .card-info h4{
+    font-size: 11px;
+    color: #5E646F;
+    text-align: center;
+  }
+  .card-structure-info .card-position-info {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+  }
+  .vl{
+    border: 0.845026px solid #C1CBDE;
+    height: 18px;
+    margin: auto;
+    margin-left: 10px;
+    margin-right: 10px; 
+  }
+  
+  
+  
+  .card-buttons{
+    display: flex;
+    position: absolute;
+    bottom: 14px;
+    left: 50%;
+    transform: translate(-50%);
+   
+  }
+  .card-buttons button{
+    padding: 5px;
+    color: #507FF9;
+    font-size: 12px;
+    background: #FFFFFF;
+    border: 0.845026px solid #E9E9E9;
+    outline: none;
+    border-radius: 3.38011px;
+    margin-right: 12px;
+  } 
+  

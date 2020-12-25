@@ -1,0 +1,19 @@
+.left-bottom h5{
+    font-weight: 500;
+    font-size: 13px;
+    color: #334D6E;
+    line-height: 15.23px;
+    letter-spacing: 0.01em;
+  }
+  .section{
+    margin-top: 24px;
+  }  
+  .nav-name {
+    display: inline;
+  }
+  
+  #navigation {
+    float: left;
+    width: 20%;
+  }
+  

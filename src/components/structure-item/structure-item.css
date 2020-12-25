@@ -1,0 +1,25 @@
+.counts{
+    display: flex;
+}
+.counts p {
+    font-size: 9.3px;
+    padding: 2.4px 3.4px;
+    margin-right: 4.23px;
+    font-weight: 700;
+    font-weight: bold;
+  }
+  .green {
+    background-color:#D7FFE2;;
+    color:#54b806;
+  }
+  .orange {
+    background-color:#FFF9C7;
+    color: #d5a707;
+  }
+  .count{
+    border-radius: 1.69005px;
+  }
+
+  .vertical-list{
+      display: block;
+  }
